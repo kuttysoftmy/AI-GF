@@ -1,0 +1,5 @@
+##Routes:
+
+###MAIN:
+message:
+/chat
